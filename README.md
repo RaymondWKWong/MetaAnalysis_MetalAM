@@ -21,7 +21,7 @@ To run the code, please fork this repository and place all files within one fold
 
 ---
 
-## Machine Learning
+### Machine Learning
 
 <p align="center">
   <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.jpg?raw=true" width="75%" />
@@ -29,7 +29,7 @@ To run the code, please fork this repository and place all files within one fold
 
 ---
 
-## Process Maps
+### Process Maps
 
 <p align="center">
   <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Process%20Maps.jpg?raw=true" width="75%" />
