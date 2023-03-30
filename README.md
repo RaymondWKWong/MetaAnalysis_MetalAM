@@ -13,7 +13,7 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 To run the code, please fork this repository and place all files within one folder to work with.
 
-## Explanatory Data Analysis
+### Explanatory Data Analysis
 
 <p align="center">
   <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Dataset%20Histogram.jpg?raw=true" width="75%" />
