@@ -15,6 +15,12 @@ To run the code, please fork this repository and place all files within one fold
 
 ## Explanatory Data Analysis
 
+<p align="center">
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Dataset%20Histogram.jpg?raw=true" width="100%" />
+</p>
+
+---
+
 ## Machine Learning
 
 <p align="center">
@@ -24,6 +30,12 @@ To run the code, please fork this repository and place all files within one fold
 ---
 
 ## Process Maps
+
+<p align="center">
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Process%20Maps.jpg?raw=true" width="100%" />
+</p>
+
+---
 
 # Cite
 
