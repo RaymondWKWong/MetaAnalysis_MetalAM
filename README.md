@@ -16,7 +16,7 @@ To run the code, please fork this repository and place all files within one fold
 ## Explanatory Data Analysis
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Dataset%20Histogram.jpg?raw=true" width="100%" />
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Dataset%20Histogram.jpg?raw=true" width="75%" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ To run the code, please fork this repository and place all files within one fold
 ## Machine Learning
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.jpg?raw=true" width="100%" />
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.jpg?raw=true" width="75%" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ To run the code, please fork this repository and place all files within one fold
 ## Process Maps
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Process%20Maps.jpg?raw=true" width="100%" />
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Process%20Maps.jpg?raw=true" width="75%" />
 </p>
 
 ---
