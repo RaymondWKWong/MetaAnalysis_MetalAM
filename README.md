@@ -9,7 +9,6 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 **AM Dataset used for Machine Learning**: <a href="https://docs.google.com/spreadsheets/d/1K5ESR2Fs0e6G_pKcHoeoVAaXulbYgRuSy4wFWTO_0jE/edit#gid=0" target="_blank">Link</a>
 
-
 # Usage
 
 
@@ -21,3 +20,7 @@ To cite this work or use of dataset, please reference the following work:
 ```
 Insert Bibtex
 ```
+
+# License
+
+All source code is licensed under the MIT license.
