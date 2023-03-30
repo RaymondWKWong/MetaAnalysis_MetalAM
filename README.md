@@ -18,7 +18,7 @@ To run the code, please fork this repository and place all files within one fold
 ## Machine Learning
 
 <p align="center">
-  <img src="LINK" width="100%" />
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.png?raw=true" width="100%" />
 </p>
 
 ---
