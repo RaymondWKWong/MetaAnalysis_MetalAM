@@ -11,7 +11,13 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 # Usage
 
+To run the code, please fork this repository and place all files within one folder to work with.
 
+## Explanatory Data Analysis
+
+## Machine Learning
+
+## Process Maps
 
 # Cite
 
