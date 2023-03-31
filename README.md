@@ -5,9 +5,9 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 # Links to Dataset
 
-**Template for AM Dataset**: <a href="FILL" target="_blank">Link</a>
+**Template for AM Dataset**: <a href="https://github.com/RaymondWKWong/No-Name/blob/main/Template%20-%20Process%20Parameters%20and%20Properties.xlsx" target="_blank">Link</a>
 
-**AM Dataset used for Machine Learning**: <a href="https://docs.google.com/spreadsheets/d/1K5ESR2Fs0e6G_pKcHoeoVAaXulbYgRuSy4wFWTO_0jE/edit#gid=0" target="_blank">Link</a>
+**AM Dataset used for Machine Learning**: <a href="https://github.com/RaymondWKWong/No-Name/blob/main/Data/Process%20Parameters%20and%20Properties%20LPBF.xlsx" target="_blank">Link</a>
 
 # Usage
 
