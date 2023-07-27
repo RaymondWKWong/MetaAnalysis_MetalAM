@@ -53,3 +53,5 @@ All source code is licensed under the MIT license.
 # Authors
 
 Code created by Raymond Wong (https://github.com/RaymondWKWong).
+Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami.
+Supervised by Minh-Son Pham.
