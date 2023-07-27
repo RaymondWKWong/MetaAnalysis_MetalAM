@@ -9,6 +9,8 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 **AM Dataset used for Machine Learning**: <a href="https://github.com/RaymondWKWong/No-Name/blob/main/Data/Process%20Parameters%20and%20Properties%20LPBF.xlsx" target="_blank">Link</a>
 
+**List of references of published work used within this study**: <a href="https://github.com/RaymondWKWong/No-Name/blob/main/Data/Process%20Parameters%20and%20Properties%20LPBF.xlsx" target="_blank">Link</a>
+
 # Usage
 
 To run the code, please fork this repository and place all files within one folder to work with.
@@ -52,6 +54,6 @@ All source code is licensed under the MIT license.
 
 # Authors
 
-Code created by Raymond Wong (https://github.com/RaymondWKWong).
-Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami.
+Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
+Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami. <br>
 Supervised by Minh-Son Pham.
