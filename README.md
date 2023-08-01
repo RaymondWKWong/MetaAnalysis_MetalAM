@@ -26,7 +26,7 @@ To run the code, please fork this repository and place all files within one fold
 ### Machine Learning
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.jpg?raw=true" width="75%" />
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.png?raw=true" width="75%" />
 </p>
 
 ---
