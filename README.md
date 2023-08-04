@@ -59,7 +59,6 @@ Insert Bibtex
 
 All source code is licensed under the MIT license.
 
-
 # Authors
 
 Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
