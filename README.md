@@ -64,3 +64,6 @@ All source code is licensed under the MIT license.
 Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
 Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami. <br>
 Supervised by Minh-Son Pham.
+
+# References of Studies Used for Analysis
+
