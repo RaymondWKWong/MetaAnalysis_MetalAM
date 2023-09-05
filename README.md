@@ -4,15 +4,11 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 Code available later.
 
----
-
 # Authors
 
 Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
 Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami. <br>
 Supervised by Minh-Son Pham.
-
----
 
 # Links to Dataset
 
