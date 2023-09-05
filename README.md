@@ -25,7 +25,15 @@ To run the code, please fork this repository and place all files within one fold
 
 ---
 
-### Machine Learning
+### PCA Biplot
+
+<p align="center">
+  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Dataset%20Histogram.png?raw=true" width="75%" />
+</p>
+
+---
+
+### Machine Learning Predictions
 
 <p align="center">
   <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.png?raw=true" width="75%" />
