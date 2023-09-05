@@ -87,8 +87,6 @@ Supervised by Minh-Son Pham.
 
 &nbsp;
 
-
-
 &nbsp;
 
 # References of Studies Used for Analysis
