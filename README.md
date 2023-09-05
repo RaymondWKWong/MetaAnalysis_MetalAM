@@ -85,10 +85,6 @@ Supervised by Minh-Son Pham.
 
 ---
 
-&nbsp;
-
-&nbsp;
-
 # References of Studies Used for Analysis
 
 Popovich, V. A., Borisov, E. V., Popovich, A. A., Sufiiarov, V. Sh., Masaylo, D. V., & Alzina, L. (2017). Impact of heat treatment on mechanical behaviour of Inconel 718 processed with tailored microstructure by selective laser melting. In Materials &amp; Design (Vol. 131, pp. 12–22). Elsevier BV. https://doi.org/10.1016/j.matdes.2017.05.065
