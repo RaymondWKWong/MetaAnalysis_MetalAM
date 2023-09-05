@@ -16,6 +16,8 @@ Supervised by Minh-Son Pham.
 
 **AM Dataset used for Machine Learning**: <a href="https://github.com/RaymondWKWong/No-Name/blob/main/Data/Process%20Parameters%20and%20Properties%20LPBF.xlsx" target="_blank">Link</a>
 
+**Full list of links of AM Dataset used for Analysis**: <a href="https://github.com/RaymondWKWong/No-Name/blob/main/Data/Process%20Parameters%20and%20Properties%20LPBF.xlsx" target="_blank">Link</a>
+
 # Usage
 
 To run the code, please fork this repository and place all files within one folder to work with.
