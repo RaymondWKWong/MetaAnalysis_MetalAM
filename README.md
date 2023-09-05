@@ -4,6 +4,15 @@ Users interested in contributing towards the AM dataset, please [email](mailto:r
 
 Code available later.
 
+---
+
+# Authors
+
+Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
+Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami. <br>
+Supervised by Minh-Son Pham.
+
+---
 
 # Links to Dataset
 
@@ -76,12 +85,6 @@ To cite this work or use of dataset, please reference the following work:
 # License
 
 All source code is licensed under the MIT license.
-
-# Authors
-
-Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
-Dataset collection by Bogdan Dovgyy, Claudia Santos Maldonado and Jalal Al-Lami. <br>
-Supervised by Minh-Son Pham.
 
 ---
 
