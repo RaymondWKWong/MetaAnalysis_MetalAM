@@ -85,3 +85,6 @@ Supervised by Minh-Son Pham.
 
 # References of Studies Used for Analysis
 
+Popovich, V. A., Borisov, E. V., Popovich, A. A., Sufiiarov, V. Sh., Masaylo, D. V., & Alzina, L. (2017). Impact of heat treatment on mechanical behaviour of Inconel 718 processed with tailored microstructure by selective laser melting. In Materials &amp; Design (Vol. 131, pp. 12–22). Elsevier BV. https://doi.org/10.1016/j.matdes.2017.05.065
+
+Zhong, Y., Liu, L., Wikman, S., Cui, D., & Shen, Z. (2016). Intragranular cellular segregation network structure strengthening 316L stainless steel prepared by selective laser melting. In Journal of Nuclear Materials (Vol. 470, pp. 170–178). Elsevier BV. https://doi.org/10.1016/j.jnucmat.2015.12.034
