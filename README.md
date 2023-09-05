@@ -88,3 +88,13 @@ Supervised by Minh-Son Pham.
 Popovich, V. A., Borisov, E. V., Popovich, A. A., Sufiiarov, V. Sh., Masaylo, D. V., & Alzina, L. (2017). Impact of heat treatment on mechanical behaviour of Inconel 718 processed with tailored microstructure by selective laser melting. In Materials &amp; Design (Vol. 131, pp. 12–22). Elsevier BV. https://doi.org/10.1016/j.matdes.2017.05.065
 
 Zhong, Y., Liu, L., Wikman, S., Cui, D., & Shen, Z. (2016). Intragranular cellular segregation network structure strengthening 316L stainless steel prepared by selective laser melting. In Journal of Nuclear Materials (Vol. 470, pp. 170–178). Elsevier BV. https://doi.org/10.1016/j.jnucmat.2015.12.034
+
+Kuznetsov, P. A., Zisman, A. A., Petrov, S. N., & Goncharov, I. S. (2016). Structure and mechanical properties of austenitic 316L steel produced by selective laser melting. In Russian Metallurgy (Metally) (Vol. 2016, Issue 10, pp. 930–934). Pleiades Publishing Ltd. https://doi.org/10.1134/s0036029516100104
+
+Mertens, A., Reginster, S., Paydas, H., Contrepois, Q., Dormal, T., Lemaire, O., & Lecomte-Beckers, J. (2014). Mechanical properties of alloy Ti–6Al–4V and of stainless steel 316L processed by selective laser melting: influence of out-of-equilibrium microstructures. In Powder Metallurgy (Vol. 57, Issue 3, pp. 184–189). Informa UK Limited. https://doi.org/10.1179/1743290114y.0000000092
+
+Pham, M. S., Dovgyy, B., & Hooper, P. A. (2017). Twinning induced plasticity in austenitic stainless steel 316L made by additive manufacturing. In Materials Science and Engineering: A (Vol. 704, pp. 102–111). Elsevier BV. https://doi.org/10.1016/j.msea.2017.07.082
+
+Kurzynowski, T., Gruber, K., Stopyra, W., Kuźnicka, B., & Chlebus, E. (2018). Correlation between process parameters, microstructure and properties of 316 L stainless steel processed by selective laser melting. In Materials Science and Engineering: A (Vol. 718, pp. 64–73). Elsevier BV. https://doi.org/10.1016/j.msea.2018.01.103
+
+Chadha, K., Tian, Y., Spray, J., & Aranas, C. (2020). Effect of Annealing Heat Treatment on the Microstructural Evolution and Mechanical Properties of Hot Isostatic Pressed 316L Stainless Steel Fabricated by Laser Powder Bed Fusion. In Metals (Vol. 10, Issue 6, p. 753). MDPI AG. https://doi.org/10.3390/met10060753
