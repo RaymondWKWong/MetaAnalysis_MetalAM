@@ -62,7 +62,15 @@ To run the code, please fork this repository and place all files within one fold
 To cite this work or use of dataset, please reference the following work:
 
 ```
-Insert Bibtex
+@misc{wong2023metaanalysis,
+      title={Meta-analysis of literature data in metal additive manufacturing: What can we (and the machine) learn from reported data?}, 
+      author={Raymond Wong and Anh Tran and Bogdan Dovgyy and Claudia Santos Maldonado and Minh-Son Pham},
+      year={2023},
+      eprint={2308.16621},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci}
+      url = {https://arxiv.org/abs/2308.16621}
+}
 ```
 
 # License
