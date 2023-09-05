@@ -98,3 +98,13 @@ Pham, M. S., Dovgyy, B., & Hooper, P. A. (2017). Twinning induced plasticity in 
 Kurzynowski, T., Gruber, K., Stopyra, W., Kuźnicka, B., & Chlebus, E. (2018). Correlation between process parameters, microstructure and properties of 316 L stainless steel processed by selective laser melting. In Materials Science and Engineering: A (Vol. 718, pp. 64–73). Elsevier BV. https://doi.org/10.1016/j.msea.2018.01.103
 
 Chadha, K., Tian, Y., Spray, J., & Aranas, C. (2020). Effect of Annealing Heat Treatment on the Microstructural Evolution and Mechanical Properties of Hot Isostatic Pressed 316L Stainless Steel Fabricated by Laser Powder Bed Fusion. In Metals (Vol. 10, Issue 6, p. 753). MDPI AG. https://doi.org/10.3390/met10060753
+
+Liverani, E., Toschi, S., Ceschini, L., & Fortunato, A. (2017). Effect of selective laser melting (SLM) process parameters on microstructure and mechanical properties of 316L austenitic stainless steel. In Journal of Materials Processing Technology (Vol. 249, pp. 255–263). Elsevier BV. https://doi.org/10.1016/j.jmatprotec.2017.05.042
+
+Ronneberg, T., Davies, C. M., & Hooper, P. A. (2020). Revealing relationships between porosity, microstructure and mechanical properties of laser powder bed fusion 316L stainless steel through heat treatment. In Materials &amp; Design (Vol. 189, p. 108481). Elsevier BV. https://doi.org/10.1016/j.matdes.2020.108481
+
+Shin, W.-S., Son, B., Song, W., Sohn, H., Jang, H., Kim, Y.-J., & Park, C. (2021). Heat treatment effect on the microstructure, mechanical properties, and wear behaviors of stainless steel 316L prepared via selective laser melting. In Materials Science and Engineering: A (Vol. 806, p. 140805). Elsevier BV. https://doi.org/10.1016/j.msea.2021.140805
+
+Shi, X., Ma, S., Liu, C., Chen, C., Wu, Q., Chen, X., & Lu, J. (2016). Performance of High Layer Thickness in Selective Laser Melting of Ti6Al4V. In Materials (Vol. 9, Issue 12, p. 975). MDPI AG. https://doi.org/10.3390/ma9120975
+
+Han, J., Yang, J., Yu, H., Yin, J., Gao, M., Wang, Z., & Zeng, X. (2017). Microstructure and mechanical property of selective laser melted Ti6Al4V dependence on laser energy density. In Rapid Prototyping Journal (Vol. 23, Issue 2, pp. 217–226). Emerald. https://doi.org/10.1108/rpj-12-2015-0193
