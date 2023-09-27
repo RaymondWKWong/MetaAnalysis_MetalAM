@@ -1,5 +1,7 @@
 # Meta-Analysis of Literature Data in Metal Additive Manufacturing
 
+Preprint of the study: <a href="https://arxiv.org/abs/2308.16621" target="_blank">Link</a>
+
 Users interested in contributing towards the AM dataset, please [email](mailto:r.wong21@imperial.ac.uk) a copy of your data following the format of the template below.
 
 Code available later.
