@@ -27,7 +27,7 @@ To run the code, please fork this repository and place all files within one fold
 ### Explanatory Data Analysis
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Dataset%20Histogram.png?raw=true" width="75%" />
+  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/Dataset_Histogram.png?raw=true" width="75%" />
 </p>
 
 ---
