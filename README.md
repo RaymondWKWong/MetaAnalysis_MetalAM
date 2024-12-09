@@ -43,7 +43,7 @@ To run the code, please fork this repository and place all files within one fold
 ### Machine Learning Predictions
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Training%20With%20Ensemble.png?raw=true" width="75%" />
+  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/CatBoost_Predictions.png?raw=true" width="75%" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ To run the code, please fork this repository and place all files within one fold
 ### Process Maps
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/Process%20Maps.png?raw=true" width="75%" />
+  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/Process_Maps.png?raw=true" width="75%" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ To run the code, please fork this repository and place all files within one fold
 ### Sensitivity Analysis
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/No-Name/blob/main/Figures/XGBoost%20Sensitivity%20Analysis.png?raw=true" width="75%" />
+  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/LightGBM_SensitivityAnalysis.png?raw=true" width="75%" />
 </p>
 
 ---
