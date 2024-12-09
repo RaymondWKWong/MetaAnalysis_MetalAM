@@ -35,7 +35,7 @@ To run the code, please fork this repository and place all files within one fold
 ### PCA Biplot
 
 <p align="center">
-  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/PCA%20Biplot.png?raw=true" width="50%" />
+  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/PCA_Biplot.png?raw=true" width="50%" />
 </p>
 
 ---
