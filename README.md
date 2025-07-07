@@ -24,6 +24,10 @@ Supervised by Minh-Son Pham.
 
 To run the code, please fork this repository and place all files within one folder to work with.
 
+<p align="center">
+  <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/PCA_Author.png?raw=true" width="75%" />
+</p>
+
 ### Explanatory Data Analysis
 
 <p align="center">
