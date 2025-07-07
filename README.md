@@ -1,4 +1,4 @@
-# Meta-Analysis of Literature Data in Metal Additive Manufacturing
+# Critical Statistical Assessment of Data in Metal Additive Manufacturing
 
 Preprint of the study: <a href="https://arxiv.org/abs/2308.16621" target="_blank">Link</a>
 
@@ -23,6 +23,10 @@ Supervised by Minh-Son Pham.
 # Usage
 
 To run the code, please fork this repository and place all files within one folder to work with.
+
+### Studies Used Within The Meta-Analysis
+
+We gratefully acknowledge the contributions of researchers whose published data made this meta-analysis possible.
 
 <p align="center">
   <img src="https://github.com/RaymondWKWong/MetaAnalysis_MetalAM/blob/main/Figures/PCA_Author.png?raw=true" width="75%" />
