@@ -77,14 +77,17 @@ We gratefully acknowledge the contributions of researchers whose published data 
 To cite this work or use of dataset, please reference the following work:
 
 ```
-@misc{wong2023metaanalysis,
-      title={Meta-analysis of literature data in metal additive manufacturing: What can we (and the machine) learn from reported data?}, 
-      author={Raymond Wong and Anh Tran and Bogdan Dovgyy and Claudia Santos Maldonado and Minh-Son Pham},
-      year={2023},
-      eprint={2308.16621},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci}
-      url = {https://arxiv.org/abs/2308.16621}
+@article{WONG2025,
+title = {Critical statistical assessment of data in metal additive manufacturing},
+journal = {Materials & Design},
+volume = {256},
+pages = {114301},
+year = {2025},
+issn = {0264-1275},
+doi = {https://doi.org/10.1016/j.matdes.2025.114301},
+url = {https://www.sciencedirect.com/science/article/pii/S026412752500721X},
+author = {Raymond Wong and Anh Tran and Bogdan Dovgyy and Claudia Santos Maldonado and Minh-Son Pham},
+keywords = {Data analytics, Machine learning, Processing maps, Additive manufacturing, Alloys},
 }
 ```
 
