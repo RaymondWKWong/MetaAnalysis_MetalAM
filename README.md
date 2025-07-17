@@ -1,6 +1,6 @@
 # Critical Statistical Assessment of Data in Metal Additive Manufacturing
 
-Preprint of the study: <a href="https://arxiv.org/abs/2308.16621" target="_blank">Link</a>
+Preprint of the study: <a href="https://www.sciencedirect.com/science/article/pii/S026412752500721X?via%3Dihub" target="_blank">Link</a>
 
 Users interested in contributing towards the AM dataset, please [email](mailto:r.wong21@imperial.ac.uk) a copy of your data following the format of the template below.
 
