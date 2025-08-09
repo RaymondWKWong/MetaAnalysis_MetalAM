@@ -4,8 +4,6 @@ Preprint of the study: <a href="https://www.sciencedirect.com/science/article/pi
 
 Users interested in contributing towards the AM dataset, please [email](mailto:r.wong21@imperial.ac.uk) a copy of your data following the format of the template below.
 
-Code available once study is published.
-
 # Authors
 
 Code created by Raymond Wong (https://github.com/RaymondWKWong). <br>
